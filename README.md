@@ -23,13 +23,20 @@ I have created test plan by using X mind map
 #### Test Scenario.
 I have created Detailed Test cases scenario which include possibility of test cases.I have providing here the link of test cases sheet
 [Test cases](https://docs.google.com/spreadsheets/d/1r8-653m42qA7igFrREytNzkqQ4AQkyPdBuugvow6M8c/edit?gid=1118559582#gid=1118559582)
+<br>
+<br>
 
 ### Task-3
 #### Bug report
 I have created detailed bugreport which is included in modesens website. I have providing here the link of bug report
 [Bug report](https://docs.google.com/spreadsheets/d/1efCNM9cA7rDYPEr3EY2YoYpeZgVigbuCGTRbBtQirCc/edit?usp=sharing)
+<br>
+<br>
 
 ### Task-4
-#### Test Execution
+#### Test Execution Report
 I have created detailed Excution report. I have providing here the link of test Execution report
 [Test Execution report](https://new-site123.atlassian.net/projects/MOD?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.thed.zephyr.je__main-project-page#!/reports/testresults/board/view?tql=testResult.projectId%20IN%20(10012)%20AND%20testRun.key%20IN%20(%22MOD-R1%22)%20AND%20testRun.onlyLastTestResult%20IS%20false&epicJQL=&title=Test%20execution%20results%20(summary)&projectId=10012&traceabilityReportOption=COVERAGE_TEST_CASES&traceabilityTreeOption=COVERAGE_TEST_CASES&traceabilityCustomTreeDisplayOption=CONDENSED&traceabilityMatrixOption=COVERAGE_TEST_CASES&scorecardOption=EXECUTION_RESULTS&displayUnit=COUNT&period=DAY&timezone=Asia%2FCalcutta)
+<br>
+#### Execution report in document (Screen short)
+[Execution report screenshorts](https://docs.google.com/document/d/12ris7TDDx9frd3WqU44DRMOFnruRmLiSjcETbB_GqcM/edit?usp=sharing)
