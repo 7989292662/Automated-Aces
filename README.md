@@ -28,3 +28,8 @@ I have created Detailed Test cases scenario which include possibility of test ca
 #### Bug report
 I have created detailed bugreport which is included in modesens website. I have providing here the link of bug report
 [Bug report](https://docs.google.com/spreadsheets/d/1efCNM9cA7rDYPEr3EY2YoYpeZgVigbuCGTRbBtQirCc/edit?usp=sharing)
+
+### Task-4
+#### Test Execution
+I have created detailed Excution report. I have providing here the link of test Execution report
+[Test Execution report](https://new-site123.atlassian.net/projects/MOD?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.thed.zephyr.je__main-project-page#!/reports/testresults/board/view?tql=testResult.projectId%20IN%20(10012)%20AND%20testRun.key%20IN%20(%22MOD-R1%22)%20AND%20testRun.onlyLastTestResult%20IS%20false&epicJQL=&title=Test%20execution%20results%20(summary)&projectId=10012&traceabilityReportOption=COVERAGE_TEST_CASES&traceabilityTreeOption=COVERAGE_TEST_CASES&traceabilityCustomTreeDisplayOption=CONDENSED&traceabilityMatrixOption=COVERAGE_TEST_CASES&scorecardOption=EXECUTION_RESULTS&displayUnit=COUNT&period=DAY&timezone=Asia%2FCalcutta)
