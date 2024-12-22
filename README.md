@@ -23,3 +23,8 @@ I have created test plan by using X mind map
 #### Test Scenario.
 I have created Detailed Test cases scenario which include possibility of test cases.I have providing here the link of test cases sheet
 [Test cases](https://docs.google.com/spreadsheets/d/1r8-653m42qA7igFrREytNzkqQ4AQkyPdBuugvow6M8c/edit?gid=1118559582#gid=1118559582)
+
+### Task-3
+#### Bug report
+I have created detailed bugreport which is included in modesens website. I have providing here the link of bug report
+[Bug report](https://docs.google.com/spreadsheets/d/1efCNM9cA7rDYPEr3EY2YoYpeZgVigbuCGTRbBtQirCc/edit?usp=sharing)
